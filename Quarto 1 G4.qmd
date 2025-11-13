@@ -24,7 +24,14 @@ You can add options to executable code like this
 
 The `echo: false` option disables the printing of code (only output is displayed).
 
+1. Title of your project (in Yaml header).
 
-HOLA ROLF 
+2. Names of group members (in Yaml header).
 
-Hola hermano
+3. Github user name for each group member.
+
+4. A description of the selected data. A link to the data and describe its structure and main variables. (If it is your own data, upload it to github to link it here).
+
+5. Define the objectives, research questions and main hypotheses.
+
+6. Name the analyses you think are necessary or which you would like to use.
