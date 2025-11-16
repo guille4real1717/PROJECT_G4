@@ -1,6 +1,9 @@
 ---
-title: "Quarto 1 G4"
+title: "Quarto 1 G4 - Nectar robbing by the invasive bumblebee Bombus terrestris (Apidae) changes the behavior of native flower visitors of Fuchsia magellanica Lam. (Onagraceae) but not seed set"
 format: html
+names: Sina Mesri, Vikas Nehra, Guillem Soler, Rolf Siebert
+date: 16/11/2025
+
 ---
 
 ## Quarto
@@ -24,14 +27,81 @@ You can add options to executable code like this
 
 The `echo: false` option disables the printing of code (only output is displayed).
 
+
+
+
+
 1. Title of your project (in Yaml header).
+
+Nectar robbing by the invasive bumblebee Bombus terrestris (Apidae) changes the behavior of native flower visitors of Fuchsia magellanica Lam. (Onagraceae) but not seed set
 
 2. Names of group members (in Yaml header).
 
+Done
+
 3. Github user name for each group member.
+
+rolfsiebert777-code, guille4real1717, NEHVIKAS, SinaMesri
 
 4. A description of the selected data. A link to the data and describe its structure and main variables. (If it is your own data, upload it to github to link it here).
 
+Data Description:
+
+The data is available in "Raw_data.xlsx" and consists of one primary sheet labeled "Raw data." Each row represents an individual plant (identified by population and plant ID) and records multiple observations:
+
+Counts of pollinating and robbing visits per flower in 10-minute intervals, for different insect species (including Bombus terrestris, Bombus dahlbomii, S. sephaniodes, and Apis mellifera).
+
+Number of pierced flowers (indicative of nectar robbery).
+
+Nectar crop measurements and nectar production rates from both pierced and undamaged flowers.
+
+Seed set metrics for different conditions ("Seeds/flower PR," "Seeds/flower P-R," etc.).​
+
+Main Variables:
+
+Population, Plant
+
+Pollinating visits by each species
+
+Robbing visits by each species
+
+Pierced flowers
+
+Standing crop and nectar production rates (pierced vs. undamaged)
+
+Seeds per flower under different conditions​
+
+
+https://peerj.com/articles/20253/#supp-1
+
+
 5. Define the objectives, research questions and main hypotheses.
 
+Objectives:
+To quantify the impact of invasive Bombus terrestris’ nectar robbing on the visitation behavior of native pollinators of Fuchsia magellanica.
+
+To determine if nectar robbing influences seed set by Fuchsia magellanica.​
+
+Research Questions:
+How does nectar robbing by Bombus terrestris affect the visitation frequencies of native pollinators?
+
+Does the presence or rate of nectar robbing alter the seed set in Fuchsia magellanica?
+
+Main Hypotheses:
+Nectar robbing by Bombus terrestris changes the pattern of native flower visitor behavior (e.g., reduces pollinating visits by native species).
+
+Nectar robbing does not significantly affect seed set in Fuchsia magellanica.​
+
+
 6. Name the analyses you think are necessary or which you would like to use.
+
+Analyses:
+Compare pollinator visitation frequencies between robbed and undamaged flowers using generalized linear models (GLMs).
+
+Analyze nectar production/crop differences between pierced and undamaged flowers with paired t-tests or ANOVA.
+
+Test for differences in seed set across treatments using GLMs or mixed-effects models.
+
+Multivariate analysis to understand visitor assemblage changes due to nectar robbery.
+
+
