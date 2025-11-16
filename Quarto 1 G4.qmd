@@ -1,43 +1,15 @@
 ---
-title: "Quarto 1 G4 - Nectar robbing by the invasive bumblebee Bombus terrestris (Apidae) changes the behavior of native flower visitors of Fuchsia magellanica Lam. (Onagraceae) but not seed set"
+title: " Nectar robbing by the invasive bumblebee Bombus terrestris (Apidae) changes the behavior of native flower visitors of Fuchsia magellanica Lam. (Onagraceae) but not seed set"
 format: html
-names: Sina Mesri, Vikas Nehra, Guillem Soler, Rolf Siebert
-date: 16/11/2025
+author: "
+  - Sina Mesri
+  - Vikas Nehra
+  - Guillem Soler
+  - Rolf Siebert
+"
+date: "16/11/2025"
 
 ---
-
-## Quarto
-
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1 = 4
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
-
-
-
-
-
-1. Title of your project (in Yaml header).
-
-Nectar robbing by the invasive bumblebee Bombus terrestris (Apidae) changes the behavior of native flower visitors of Fuchsia magellanica Lam. (Onagraceae) but not seed set
-
-2. Names of group members (in Yaml header).
-
-Done
 
 3. Github user name for each group member.
 
