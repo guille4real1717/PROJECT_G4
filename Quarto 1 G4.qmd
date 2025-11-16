@@ -7,7 +7,8 @@ author: "
   - Guillem Soler
   - Rolf Siebert
 "
-date: "16/11/2025"
+date: "2025-11-16"
+date-format: "DD/MM/YYYY"
 
 ---
 
